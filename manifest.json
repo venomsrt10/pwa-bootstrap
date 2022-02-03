@@ -8,9 +8,8 @@
     "background_color": "#b5b8c1",
     "theme_color" : "#bf0000",  
     "display": "standalone",
-    "start_url": "/pwa-lab2",
-    "scope": "/",
-    "id":"/PWA-LAB2/",
+    "start_url": "https://venomsrt10.github.io/pwa-bootstrap/",
+    "scope": "https://venomsrt10.github.io/pwa-bootstrap/",
     "icons": [
         {
             "src": "icone-192x192.png",
